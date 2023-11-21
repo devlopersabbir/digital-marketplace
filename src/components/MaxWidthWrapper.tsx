@@ -10,7 +10,7 @@ const MaxWidthWrapper = ({ className, children }: TProps) => {
   return (
     <div
       className={cn(
-        "max-auto w-full max-w-screen-xl px-2.5 md:px-20",
+        "mx-auto w-full max-w-screen-xl px-2.5 md:px-20",
         className
       )}
     >
