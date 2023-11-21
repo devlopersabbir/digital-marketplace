@@ -11,12 +11,12 @@ export const PRODUCT_CATEGORIES = [
       {
         name: "New Arrivals",
         href: "#",
-        imageSrc: "/nav/ui-kits/blue.jpg",
+        imageSrc: "/nav/ui-kits/blue.jpeg",
       },
       {
         name: "Bestsellers",
         href: "#",
-        imageSrc: "/nav/ui-kits/purple.jpg",
+        imageSrc: "/nav/ui-kits/purple.jpeg",
       },
     ],
   },
@@ -27,17 +27,17 @@ export const PRODUCT_CATEGORIES = [
       {
         name: "Favorite Icon Picks",
         href: "#",
-        imageSrc: "/nav/icons/picks.jpg",
+        imageSrc: "/nav/icons/picks.jpeg",
       },
       {
         name: "New Arrivals",
         href: "#",
-        imageSrc: "/nav/ui-kits/new.jpg",
+        imageSrc: "/nav/icons/new.jpeg",
       },
       {
         name: "Bestselling Icons",
         href: "#",
-        imageSrc: "/nav/ui-kits/bestsellers.jpg",
+        imageSrc: "/nav/icons/bestsellers.jpeg",
       },
     ],
   },
