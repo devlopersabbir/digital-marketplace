@@ -1,4 +1,7 @@
 export { default as MaxWidthWrapper } from "./MaxWidthWrapper";
-export { default as Navbar } from "./Navbar";
+
+export { default as Navbar } from "./navbar/Navbar";
+export { default as NavItem } from "./navbar/NavItem";
+export { default as NavItems } from "./navbar/NavItems";
 
 export { Icons } from "./Icons";

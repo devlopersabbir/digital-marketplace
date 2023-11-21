@@ -1,6 +1,7 @@
 import Link from "next/link";
-import MaxWidthWrapper from "./MaxWidthWrapper";
-import { Icons } from ".";
+import MaxWidthWrapper from "../MaxWidthWrapper";
+import { Icons } from "..";
+import NavItems from "./NavItems";
 
 const Navbar = () => {
   return (
@@ -14,6 +15,10 @@ const Navbar = () => {
                 <Link href="/">
                   <Icons.logo className="h-10 w-10" />
                 </Link>
+              </div>
+
+              <div className="hidden lg:ml-8 z-50 lg:block lg:self-stretch">
+                <NavItems />
               </div>
             </div>
           </div>
