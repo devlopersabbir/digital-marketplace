@@ -1,4 +1,4 @@
-import MaxWidthWrapper from "@/components/MaxWidthWrapper";
+import { MaxWidthWrapper } from "@/components";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { perks } from "@/constants";
 import Link from "next/link";
