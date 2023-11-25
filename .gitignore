@@ -2,6 +2,8 @@
 
 .env
 pnpm-lock.yaml
+/pnpm-lock.yaml
+./pnpm-lock.yaml
 
 
 # dependencies
